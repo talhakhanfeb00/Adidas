@@ -11,3 +11,7 @@ Tools Used
 - Pandas
 - Matplotlib
 - Faker
+
+ Dataset Information  
+- This is synthetic data generated for demonstration purposes.  
+- No real individuals or organizations are represented.  
