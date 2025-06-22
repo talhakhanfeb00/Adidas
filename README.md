@@ -12,9 +12,11 @@ Tools Used
 - Matplotlib
 - Faker
 
+ Disclaimer
+ 
  Walmart Dataset Information  
 - This is synthetic data generated for demonstration purposes.  
 - No real individuals or organizations are represented.
 
-- Adidas Dataset
+  Adidas Dataset
 - This is from kaggle and it is CC0 license which allows to use for any purpose.
